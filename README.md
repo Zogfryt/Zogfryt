@@ -8,4 +8,4 @@
 
 * I play osu\! in my free time. It doesn't go well couse i'm still noob despite hundreds of hours played, but it's a real fun to me :yellow_heart:
 
-  my profile is here if you are curious :point right: [Zogfryt](https://osu.ppy.sh/users/12205731)
+  my profile is here if you are curious :point_right: [Zogfryt](https://osu.ppy.sh/users/12205731)
