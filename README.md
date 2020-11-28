@@ -12,4 +12,5 @@
   
 * Hey look at this sweet page of mine [Github Pages](https://zogfryt.github.io)
 
-* Here's nice fork that i found :3 [old photos converter](https://github.com/Zogfryt/Bringing-Old-Photos-Back-to-Life)
+* Here's nice fork that i made :3 [old photos converter](https://github.com/Zogfryt/Bringing-Old-Photos-Back-to-Life)
+  * And just in case to original [repository](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
